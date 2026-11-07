@@ -98,24 +98,24 @@ INSERT INTO users (
 )
 VALUES
 (
-    'John',
-    'Smith',
-    'john.smith@example.com'
+    'Thanay',
+    'R',
+    'thanay.r@example.com'
 ),
 (
-    'Sarah',
-    'Johnson',
-    'sarah.johnson@example.com'
+    'Manoj',
+    'K',
+    'manoj.k@example.com'
 ),
 (
-    'Michael',
-    'Brown',
-    'michael.brown@example.com'
+    'Vinay',
+    'K',
+    'vinay.k@example.com'
 ),
 (
-    'Emily',
-    'Davis',
-    'emily.davis@example.com'
+    'Simha',
+    'D',
+    'simha.d@example.com'
 );
 
 
